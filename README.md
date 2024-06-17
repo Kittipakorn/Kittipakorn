@@ -1,6 +1,7 @@
 ## Hi 👋 My name is Kittiapakorn Seenak
 Student ,Software Developer
-"I have been using computers since I was only 5 years old. The excitement of exploring the digital world is something that captivated me. I remember well that I started with playing games, progressing to learning the basics of coding. The interest that began in my childhood has grown into a deep passion today."  * ✉️  You can contact me at [kittipakorn1234@gmail.com](mailto:kittipakorn1234@gmail.com)
+"I have been using computers since I was only 5 years old. The excitement of exploring the digital world is something that captivated me. I remember well that I started with playing games, progressing to learning the basics of coding. The interest that began in my childhood has grown into a deep passion today." 
+* ✉️  You can contact me at [kittipakorn1234@gmail.com](mailto:kittipakorn1234@gmail.com)
 
 # Skills
 
