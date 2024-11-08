@@ -1,47 +1,20 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <title>Kittipakorn</title>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/public/Face.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kittipakorn</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chewy&family=Itim&family=Noto+Serif+Thai:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
 </head>
 
-<body class="min-w-full bg-gray-900">
-    <div class="grid bg-gray-900 min-h-[96vh]">
-        <div class="m-auto">
-
-            <div class="text-center justify-center mb-16">
-                <p class="text-white text-2xl max-md:text-sm font-medium mb-4">Kittipakorn's website is</p>
-                <p class="text-blue-600 font-bold max-md:text-5xl text-8xl drop-shadow-2xl" id="ad">Coming soon...</p>
-            </div>
-            <form class="flex justify-center mb-12" id="myForm">
-                <input type="text" name="message" placeholder="Send me a message"
-                    class="border border-blue-600 p-2 max-md:w-60 w-96 bg-gray-900 mr-3 text-white" required>
-                <input type="submit" value="Send" class="py-3 px-7 cursor-pointer text-white  bg-blue-600">
-            </form>
-            <div class="flex justify-center mb-auto">
-                <img src="img/profile.jpeg" alt="mo" class="max-md:w-12 max-md:h-12 w-16 h-16 rounded-full">
-                <div class="flex flex-col ml-5 my-auto text-center ">
-                    <p class="text-white text-xl max-md:text-lg font-medium">Kittipakorn Seenak</p>
-                    <p class="text-gray-500 max-md:text-sm text-m">Software Developer</p>
-                </div>
-            </div>
-        </div>
-        
-        <p class="absolute top-4 left-4 text-white font-bold">Kittipakorn</p>
-    </div>
-    <div class="bg-gray-900 min-h-[4vh]">
-        <p class="mx-auto text-[#A7A7A7] text-sm max-md:text-xs text-center pt-3">
-            Copyright © 2024 Kittipakorn Seenak. All rights reserved.</p>
-    </div>
-    <script src="script.js"></script>
-
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
 </body>
-<footer>
-
-</footer>
 
 </html>
