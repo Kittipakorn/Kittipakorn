@@ -1,74 +1,69 @@
-<div align="center">
+<h1 align="left">Hey, I'm Kittipakorn 👋</h1>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90eHByYnN5bWh4aTJ6cW56bXJmZWh4bjB2aHZ6YjZ5bnh4Z2V4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWRfY3Q9cw/LpSf6D9g6M0Z2X5fT9/giphy.gif" width="80" />
-
-<h1 align="center">Hey there, I'm Kittipakorn 👋</h1>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CEDT+Student+at+Chulalongkorn+University;iOS+Developer+%EF%A3%BF+Swift+%26+SwiftUI;Thailand+Olympiad+in+Informatics+(TOI);Firmware+%26+Data+Enthusiast" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <b>🏆 Thailand Olympiad in Informatics</b>
-  <br/>
-  I focus primarily on <b>iOS development</b>, with additional experience in <br/>
-  <b>firmware engineering</b> and <b>data analysis</b>.
+<p align="left">
+  <b>Computer Engineering (CEDT) Student at Chulalongkorn University 🇹🇭</b><br/>
+  🏆 Thailand Olympiad in Informatics (TOI)
 </p>
+
+<p align="left">
+  Focusing on <b>iOS Development </b> with a strong background in firmware engineering and data analysis.
+</p>
+
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<h3 align="left">Focus Areas</h3>
+<ul align="left">
+  <li>🍎 <b>iOS Development</b> — Swift, SwiftUI, Clean Architecture</li>
+  <li>🦾 <b>Firmware Engineering</b> — MCU, ESP32, OTA, Low-level</li>
+  <li>📊 <b>Data Analysis</b> — Python, Pandas, Visualization</li>
+</ul>
 
 <br/>
 
-<h3 align="center">🛠 Tech Stack</h3>
 
-<p align="center">
-  <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/ios/" target="_blank">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
+<h3 align="left">Technologies</h3>
+
+<p align="left">
+  <b>Apple Ecosystem</b><br/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="left">
+  <b>Engineering & Data</b><br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<p align="left">
+  <b>Web Stack</b><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+<h3 align="left">Coding Activity</h3>
+<div align="left">
+  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kittipakorn&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />](https://pixel-profile.vercel.app/api/github-stats?username=<Kittipakorn>&theme=summer)
 </div>
 
-<br/>
 
-<h3 align="center">📬 Connect with me</h3>
-
-<div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<h3 align="left">Connect</h3>
+<p align="left">
+  <a href="kittipakorn.seenak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br/>
-
-</div>
+</p>
