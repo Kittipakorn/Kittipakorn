@@ -12,7 +12,6 @@
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
 
 <h3 align="left">Focus Areas</h3>
 <ul align="left">
@@ -20,9 +19,6 @@
   <li>🦾 <b>Firmware Engineering</b> — MCU, ESP32, OTA, Low-level</li>
   <li>📊 <b>Data Analysis</b> — Python, Pandas, Visualization</li>
 </ul>
-
-<br/>
-
 
 <h3 align="left">Technologies</h3>
 
@@ -49,21 +45,16 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
-<h3 align="left">Coding Activity</h3>
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kittipakorn&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 
 <h3 align="left">Connect</h3>
 <p align="left">
   <a href="kittipakorn.seenak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/kittipakorn-seenak-93718630b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://discord.com/user/554656717925908480">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
