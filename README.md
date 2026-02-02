@@ -51,9 +51,7 @@
 
 <h3 align="left">Coding Activity</h3>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kittipakorn&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kittipakorn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kittipakorn&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 
