@@ -27,7 +27,7 @@
 <h3 align="left">Technologies</h3>
 
 <p align="left">
-  <b>Apple Ecosystem</b><br/>
+  <b> - Apple Ecosystem</b><br/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white" />
@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-  <b>Engineering & Data</b><br/>
+  <b> - Engineering & Data</b><br/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -43,7 +43,7 @@
 </p>
 
 <p align="left">
-  <b>Web Stack</b><br/>
+  <b> - Web Stack</b><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
