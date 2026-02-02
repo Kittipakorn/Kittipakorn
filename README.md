@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/kittipakorn-seenak-93718630b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/user/554656717925908480">
+  <a href="https://discord.com/users/554656717925908480">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
