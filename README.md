@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> iOS development (Swift, SwiftUI)<br>🦾 Firmware engineering (MCU, ESP32, OTA, low-level)<br>📊 Data analysis (Python, Pandas, visualization)</p>
+<p align="left">    iOS development (Swift, SwiftUI)<br>🦾 Firmware engineering (MCU, ESP32, OTA, low-level)<br>📊 Data analysis (Python, Pandas, visualization)</p>
 
 ###
 
