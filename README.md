@@ -1,54 +1,62 @@
 <h1 align="left">Hey, I'm Kittipakorn 👋</h1>
 
 <p align="left">
-  <b>Computer Engineering (CEDT) Student at Chulalongkorn University 🇹🇭</b><br/>
-  🏆 Thailand Olympiad in Informatics (TOI)
+  <b>Computer Engineering (CEDT) Student at Chulalongkorn University 🇹🇭</b>
 </p>
 
 <p align="left">
-  Focusing on <b>iOS Development </b> with a strong background in firmware engineering and data analysis.
+  <b>Mobile Developer & UX/UI Designer</b> crafting native applications on 
+  <b>iOS </b> and <b>Android 🤖</b> — combining clean architecture with thoughtful user experience.
 </p>
-
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3 align="left">Focus Areas</h3>
 <ul align="left">
-  <li>🍎 <b>iOS Development</b> — Swift, SwiftUI, Clean Architecture</li>
-  <li>🦾 <b>Firmware Engineering</b> — MCU, ESP32, OTA, Low-level</li>
-  <li>📊 <b>Data Analysis</b> — Python, Pandas, Visualization</li>
+  <li>🍎 <b>iOS Development</b> — Swift, SwiftUI, UIKit, MVVM</li>
+  <li>🤖 <b>Android Development</b> — Kotlin, Java, Jetpack Compose</li>
+  <li>🎨 <b>UX/UI Design</b> — User Research, Wireframing, Prototyping, Design Systems</li>
+  <li>🧩 <b>Architecture</b> — Clean Architecture, State Management, API Integration</li>
 </ul>
 
 <h3 align="left">Technologies</h3>
 
 <p align="left">
-  <b> - Apple Ecosystem</b><br/>
+  <b> - iOS</b><br/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/UIKit-1C1C1E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
 </p>
 
 <p align="left">
-  <b> - Engineering & Data</b><br/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <b> - Android</b><br/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square" />
 </p>
 
 <p align="left">
-  <b> - Web Stack</b><br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <b> - UX/UI & Product</b><br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prototyping-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design_System-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/User_Research-555555?style=flat-square" />
 </p>
 
+<p align="left">
+  <b> - Backend & Tools</b><br/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 <h3 align="left">Connect</h3>
 <p align="left">
-  <a href="kittipakorn.seenak@gmail.com">
+  <a href="mailto:kittipakorn.seenak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kittipakorn-seenak-93718630b/">
